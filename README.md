@@ -1,2 +1,0 @@
-# pandaautotest
-selenium+unittest
